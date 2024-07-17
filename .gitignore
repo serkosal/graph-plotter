@@ -7,6 +7,16 @@
 *.o
 *.obj
 
+# cmake settings
+CMakeSettings.json
+
+# IDE folders and files
+.vs
+
+# Build folders
+out
+build
+
 # Precompiled Headers
 *.gch
 *.pch
